@@ -12,3 +12,4 @@ torchaudio
 tqdm
 Pillow
 opencv-python
+tensorflow
